@@ -5,17 +5,12 @@ This project applies Natural Language Processing (NLP) techniques to perform sen
 Using Python libraries like NLTK, TextBlob, scikit-learn, and pandas, the project demonstrates the full NLP pipeline — from text preprocessing and exploratory data analysis (EDA) to feature extraction and model evaluation.
 
 Key Highlights of the project: 
-- Text Cleaning & Preprocessing
-  Tokenization, stopword removal, case normalization, and more.
+- Text Cleaning & Preprocessing: Tokenization, stopword removal, case normalization, and more.
 
-- Exploratory Data Analysis (EDA)
-  Discover patterns and sentiment distributions in the dataset.
+- Exploratory Data Analysis (EDA): Discover patterns and sentiment distributions in the dataset.
 
-- Feature Extraction
-  Convert text to numerical form using Bag of Words, TF-IDF, and Word2Vec.
+- Feature Extraction: Convert text to numerical form using Bag of Words, TF-IDF, and Word2Vec.
 
-- Model Training & Evaluation
-  Train machine learning models and evaluate their performance on sentiment classification tasks.
+- Model Training & Evaluation: Train machine learning models and evaluate their performance on sentiment classification tasks.
 
-- Tools & Libraries
-  Python, Jupyter Notebook, NLTK, TextBlob, scikit-learn, pandas, matplotlib
+- Tools & Libraries: Python, Jupyter Notebook, NLTK, TextBlob, scikit-learn, pandas, matplotlib
